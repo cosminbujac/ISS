@@ -1,7 +1,7 @@
 # ISS
 
 Enunt problema:
- O firma producatoare de software pune la dispozitia programatorilor si verificatorilor sai un sistem prin care acestia pot sa comunice electronic. Astfel, fiecare dintre angajatii mentionati are la dispoziție un terminal prin care:
+O firma producatoare de software pune la dispozitia programatorilor si verificatorilor sai un sistem prin care acestia pot sa comunice electronic. Astfel, fiecare dintre angajatii mentionati are la dispoziție un terminal prin care:
  
    •verificatorul  -poate  înregistra  un  bug,  dându-i  o  denumire, o descriere si un nivel de gravitate: Low, Medium, High
                    -imediat  dupa înregistrarea bug-ului, toti  programatorii vad  lista bug-urilor  actualizata cu obiectul nou introdus
