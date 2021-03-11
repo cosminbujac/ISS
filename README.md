@@ -7,7 +7,7 @@ O firma producatoare de software pune la dispozitia programatorilor si verificat
                    -imediat  dupa înregistrarea bug-ului, toti  programatorii vad  lista bug-urilor  actualizata cu obiectul nou introdus<br>
                    -vizualizeaza bug-urile rezolvate de programatori si poate inchide un bug daca l-a testat din nou si a constatat ca e rezolvat, caz în care bug-ul este scos din                     lista tuturor programatorilor.<br>
     
-   •programatorul  -vizualizeaza lista bug-urilor dupa nivelul de gravitate<br>
+   •programatorul <br> -vizualizeaza lista bug-urilor dupa nivelul de gravitate<br>
                    -un bug poate avea 3 statusuri: InWork, cand un programator lucreaza la rezolvarea lui<br>
                                                    Available, cand nimeni nu lucreaza la bug<br>
                                                    Ready for testing, cand bug-ul se considera rezolvat si tester-ul il poate verifica iar<br>
